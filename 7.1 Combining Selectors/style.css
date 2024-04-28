@@ -12,10 +12,10 @@
     color : blue;
  }
 
- li.done{
+ li.done{                    /*chain*/
     color : seagreen;
  }
 
- ul p.done{
+ ul p.done{                 /*combine combinerers*/
     font-size : 0.5rem;
  }

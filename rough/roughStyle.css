@@ -1,3 +1,17 @@
-h1  .abc{
-    color : palevioletred
+.box1{
+    position : relative;
+    top : 50px;
+    left : 50px;
+    width : 200px;
+    height : 200px;
+    background-color: cornflowerblue;
+}
+
+.box2{
+    position : static;
+    width : 200px;
+    height : 200px;
+    background-color: salmon;
+    
+    
 }
